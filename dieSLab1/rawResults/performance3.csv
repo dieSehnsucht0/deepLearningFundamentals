@@ -1,0 +1,7 @@
+Dataset,Model,Batch Size,Learning Rate,Hidden Size,Epochs,Test Accuracy
+mnist,MLP,8,0.001,64,10,0.9729
+mnist,CNN,8,0.001,-,30,0.9896
+mnist,ViT,8,0.001,-,30,0.912
+cifar10,MLP,8,0.001,64,10,0.498
+cifar10,CNN,8,0.001,-,30,0.69
+cifar10,ViT,8,0.001,-,30,0.4262
